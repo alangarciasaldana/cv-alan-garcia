@@ -1,11 +1,4 @@
-Información del Sitio
 title: Alan García Saldaña
-description: Comunicador y Educador | Project Manager | Especialista en Innovación Educativa
-theme: jekyll-theme-cayman # Puedes probar con 'jekyll-theme-merlot' o 'jekyll-theme-tactile'
-
-# Enlaces de contacto rápidos (aparecerán arriba)
-google_analytics: # Deja vacío por ahora
-show_downloads: false # Para que no salga el botón de descarga de archivos de GitHub
-
-# Personalización adicional
-remote_theme: pages-themes/cayman@v0.2.0
+description: Comunicador y Educador | Project Manager | Innovación Educativa
+theme: jekyll-theme-cayman
+show_downloads: false
