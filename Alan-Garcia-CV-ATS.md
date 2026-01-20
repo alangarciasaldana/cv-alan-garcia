@@ -1,3 +1,5 @@
+theme: jekyll-theme-minimal
+
 # ALAN GARCÍA SALDAÑA
 
 Piura, Perú | +51 969 188 621 | alangarciasaldana@gmail.com | linkedin.com/in/alangarsal
