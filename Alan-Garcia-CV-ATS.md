@@ -1,6 +1,6 @@
 # ALAN GARCÍA SALDAÑA
 
-Piura, Perú | +51 969 188 621 | alangarciasaldana@gmail.com | linkedin.com/in/alangarsal
+Piura, Perú | +51 969 188 621 | [alangarciasaldana@gmail.com](mailto:alangarciasaldana@gmail.com) | [linkedin.com/in/alangarsal](https://linkedin.com/in/alangarsal)
 
 ---
 
